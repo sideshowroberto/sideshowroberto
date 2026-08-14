@@ -23,3 +23,4 @@ connectors give it hands in the running applications.**
 
 - Tool questions and bug reports: [open an issue](https://github.com/sideshowroberto/vfx-agent-toolkit/issues)
 - Everything else: [LinkedIn](https://www.linkedin.com/in/robert-williams-0571b851/)
+- Screen credits: [IMDB](https://www.imdb.com/name/nm3958832/)
